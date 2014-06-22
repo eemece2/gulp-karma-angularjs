@@ -1,0 +1,13 @@
+{
+  "name": "gulp-karma",
+  "version": "0.0.0",
+  "homepage": "https://github.com/karma-runner/gulp-karma",
+  "authors": [
+    "Eduardo Martinez Cobos <eemece2@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.2.18",
+    "angular-mocks": "~1.2.18"
+  }
+}

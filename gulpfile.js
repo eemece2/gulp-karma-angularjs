@@ -8,8 +8,11 @@ var karmaCommonConf = {
   browsers: ['Chrome'],
   frameworks: ['jasmine'],
   files: [
-    'src/**/*.js',
-    'test/**/*.spec.js'
+      'app/bower_components/angular/angular.js',
+      'app/bower_components/angular-mocks/angular-mocks.js',
+      'app/myApp.js',
+      'app/controller.js',
+      'test/*.spec.js'
   ]
 };
 
