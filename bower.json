@@ -1,7 +1,7 @@
 {
-  "name": "gulp-karma",
+  "name": "gulp-karma-angularjs",
   "version": "0.0.0",
-  "homepage": "https://github.com/karma-runner/gulp-karma",
+  "homepage": "https://github.com/eemece2/gulp-karma-angularjs",
   "authors": [
     "Eduardo Martinez Cobos <eemece2@gmail.com>"
   ],

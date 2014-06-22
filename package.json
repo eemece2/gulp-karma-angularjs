@@ -1,15 +1,15 @@
 {
-  "name": "gulp-karma",
+  "name": "gulp-karma-angularjs",
   "version": "0.0.1",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karma-runner/gulp-karma"
+    "url": "https://github.com/eemece2/gulp-karma-angularjs"
   },
   "bugs": {
-    "url": "https://github.com/karma-runner/gulp-karma/issues"
+    "url": "https://github.com/eemece2/gulp-karma-angularjs/issues"
   },
-  "homepage": "https://github.com/karma-runner/gulp-karma",
+  "homepage": "https://github.com/eemece2/gulp-karma-angularjs",
   "devDependencies": {
     "karma": "~0.12.16",
     "karma-jasmine": "~0.2.2",
